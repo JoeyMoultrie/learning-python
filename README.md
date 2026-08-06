@@ -17,4 +17,4 @@ Projects and Exercises will be added as I get them done.
 
 | Exercise Name | Description | Skill Practiced | View Code |
 | :--- | :--- | :--- | :--- |
-| **Guest List** | A slightly ridiculous scenario driven Python program to practice manipulating Python Lists. | Python, List | [View Project](https://github.com/JoeyMoultrie/learning-python/blob/main/guest-list/Guest_List.py)|
+| **Guest List** | A slightly ridiculous scenario driven Python program to practice manipulating Python Lists. | Python, List | [View Project](https://github.com/JoeyMoultrie/learning-python/tree/main/guest-list)|
