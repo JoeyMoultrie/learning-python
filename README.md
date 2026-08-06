@@ -6,11 +6,13 @@ I am excited to be on the journey and to be solving problems utilizing Python.
 
 Projects and Exercises will be added as I get them done.
 
+<br><br>
 ## Project Portfolio
 
 | Project Name | Description | Tech Used | View Code |
 | :--- | :--- | :--- | :--- |
 
+<br><br>
 ## Exercise Portfolio
 
 | Exercise Name | Description | Skill Practiced | View Code |
