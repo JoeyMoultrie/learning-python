@@ -3,8 +3,7 @@
 This was a simple exercise from *Python Crash Course*, chapter 3, that I combined with all the list exercises to create a scenario driven code base where all the changes to the code are prompted by the 
 changes required to the original code during the exercise. The change prompts are written as notes in the source code. 
 
-The gist is that I created a program to invite a list of guests to dinner at my house who could be living or dead. One guest couldn't make it so I had to inform the other guests, change the list, add a 
-new guest, and send out new invites to each guest.
+The gist is that I created a program to invite a list of guests to dinner at my house who could be living or dead. One guest couldn't make it so I had to inform the other guests, change the list, add a new guest, and send out new invites to each guest. Then I got a bigger table, which didn't arrive in time, and I had to increase my guest list and finally shrink it to only two guests and remove all the others.
 
 ## Code Example
 Here is a small sample of the overall code.
