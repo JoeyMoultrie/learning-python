@@ -1,3 +1,0 @@
-[submodule "temperature_converter"]
-	path = temperature_converter
-	url = https://github.com/JoeyMoultrie/learning-python
