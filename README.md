@@ -11,6 +11,7 @@ Projects and Exercises will be added as I get them done.
 
 | Project Name | Description | Tech Used | View Code |
 | :--- | :--- | :--- | :--- |
+| **Calculator** | A basic calculator program that I hope to build into a more complicated, automotive focused calculator. | Python, Functions, Input, If statements | [View Project](https://github.com/JoeyMoultrie/calculator)
 
 Bear with me as I work on putting together some projects that I want to be more than just a code example.
 
