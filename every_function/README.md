@@ -1,24 +1,23 @@
 ## About this Exercise
 
-This is a simple exercise to practice making a program that takes user input to convert between the Fahrenheit and Celsius temperature scales. I created my own functions within the program to practice building and calling functions.
+This is a simple exercise to practice creating and using a list in Python. I practiced using a for loop to print the list in a good format to the screen to avoid the default Python list format when printing to the screen. I then practiced modifying, adding to, removing from, sorting, and reversing the list.
 
 ## Code Example
-Here is a screenshot of the code.
+Here is a snip of the code.
 
 <br>
 
-<img width="1148" height="505" alt="temperature converter" src="https://github.com/user-attachments/assets/9dd2460b-d354-4b8c-ab37-fa6c18c0a60b" />
+<img width="968" height="890" alt="Code snip" src="https://github.com/user-attachments/assets/8bdbd926-35dc-42b2-a9e6-4efbd2da18ef" />
 
 <br>
 
 ## What I learned
-- Practice with basic syntax to assign user input to a variable.
-- Practice creating my own functions.
-- Practice with 'if' statements.
-- I would like to learn some error control to add to a program to this to handle if the user input is not what the program needs to run.
+- Practice with basic syntax to create and work with lists.
+- Practice adding, removing, and sorting items from a list.
+- Practice with 'for' loops to print clearly.
 - Tested output in the terminal window.
 
 ## How to Run
 1. Open your terminal or command prompt
 2. Clone this repository or copy the code file.
-3. Run the temperature_converter.py using your local compiler or interpreter.
+3. Run the 3-10Every_Function.py using your local compiler or interpreter.
