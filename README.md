@@ -22,3 +22,4 @@ Bear with me as I work on putting together some projects that I want to be more 
 | :--- | :--- | :--- | :--- |
 | **Guest List** | A slightly ridiculous scenario driven Python program to practice manipulating Python Lists. | Python, List | [View Project](https://github.com/JoeyMoultrie/learning-python/tree/main/guest-list)|
 | **Temperature Converter** | A simple terminal program to convert between temperature scales. | Python, Functions, Input | [View Project](https://github.com/JoeyMoultrie/learning-python/tree/main/temperature_converter)|
+| **Every Function** | A simple Program to practice working with Python lists. | Python, various functions like len() and sorted(), various methods like pop(), append(),and sort(), 'for' loops | [View Project](https://github.com/JoeyMoultrie/learning-python/tree/main/every_function)
